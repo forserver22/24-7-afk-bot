@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "rec222.aternos.me",
     "port": 14703,
     "version": "1.20.1",
     "try-creative": false
